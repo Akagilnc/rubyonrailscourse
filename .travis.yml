@@ -6,4 +6,4 @@ jdk:
 before_install:
   - gem update --system
   - gem --version
-# add by Deronlee
+# add by Deronlee 2016/3/19
